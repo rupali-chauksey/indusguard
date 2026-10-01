@@ -121,6 +121,26 @@ When a technician completes the repair, the system automatically:
 
 ---
 
+## 📊 Projected Business Impact
+
+> **Note:** These are projected figures based on simulation and industry benchmarks. Actual deployment results may vary.
+
+### 6-Month Field Simulation (5 Machines)
+
+| Metric | Baseline | Projected | Improvement |
+|---|---|---|---|
+| Unplanned Downtime | 240 hrs | 158 hrs | ▼ 34.2% |
+| Mean Time Between Failures (MTBF) | 180 hrs | 285 hrs | ▲ 58.3% |
+| Mean Time To Repair (MTTR) | 4.2 hrs | 3.1 hrs | ▼ 26.2% |
+| Emergency Repair Spend | ₹18.5 Lakh | ₹12.2 Lakh | ▼ 34.1% |
+| Production Outage Loss | ₹45.0 Lakh | ₹29.7 Lakh | ▼ 34.0% |
+
+### Financial Summary
+
+- **Total Annual Fleet Savings**: ₹18,39,500 (₹18.4 Lakh)
+- **Platform Year 1 ROI**: 1,008% (Payback Period: 1.1 months)
+- **Enterprise 100-Machine Scale**: ₹3.68 Crore / year
+- **Cost per AI Query**: ₹0.02
 
 ### Methodology
 
